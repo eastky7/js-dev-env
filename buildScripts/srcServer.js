@@ -1,3 +1,5 @@
+// configure express to serve the website
+
 var express = require('express');
 var path = require('path');
 var open = require('open');
